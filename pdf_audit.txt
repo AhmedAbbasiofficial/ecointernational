@@ -1,0 +1,384 @@
+================================================================================
+ecocross-15kw-tp-ec-15000d-48v.pdf | pages: 1
+--- page 1 ---
+ECO International Pakistan
+PRODUCT SPECIFICATION SHEET
+ECOCROSS 15kW Solar Inverter (TP)
+Model: EC-15000D-48V | Series: ECOCROSS Series
+Description
+Heavy commercial 15kW three-phase solar inverter capable of driving up to 30kW in solar panels
+with robust three-phase grid synchronism.
+Verified specifications
+ Rated Power: 15.0 kW Three Phase
+ PV Input Capacity: 30.0 kW
+ Protection Rating: IP65 Outdoor Ready
+ Official Warranty: 5 Years
+Key verified data
+Model Number: EC-15000D-48V
+Brand: ECOCROSS
+Rated Power: 15.0 kW (15000W)
+Nominal DC Voltage: 48V DC
+Max Solar PV Input: 30.0 kW
+Ingress Protection: IP65 (Outdoor Rated)
+ECOINTL product specification sheet generated from verified catalogue data.
+Official manufacturer PDF not found in the repository; this sheet is an ECOINTL specification sheet based on verified technical catalogue data.
+
+================================================================================
+ecowall-ew-10k-48v-gr.pdf | pages: 1
+--- page 1 ---
+e c o i n t l
+E C O W A L L
+1 0  k W h  B a t t e r y
+PROTECTIONAMBIENT
+Battery Type 
+Normal Battery Voltage(v) 
+Normal Capacity (25℃ 0.2C)(Ah)
+Rated Power (25℃ 0.2C)(Wh)
+Folat Charge Voltage(V)
+Operation Voltge range (V)
+Max.Continuous Charge Current(A)
+Max. Continvous Discharge Qument(A)
+Max.Pulse Discharge Current(A)
+Terminal
+Storage temperature
+IP degree
+Storage duration
+Safety standard
+Display (Optional)
+Communication Port(Optional)
+GGESSM-51.2V-200AH（A）
+Working Temperature
+Humidity
+Sea Level(m)
+DIMENSION
+LxWxD (products size, mm)
+LxWxD (package size, mm)
+NW Kg
+GW Kg
+LiFePO4 
+51.2V
+200Ah
+10240
+56
+44.8~58.4
+80A
+150A
+200A 0.5Sec
+M8
+-10℃~50℃
+IP20
+6 months at 25℃
+UN38.3,MSDS
+/
+RS485,CAN,DRY
+540*190*670mm
+(With wall mount bracket 228mm)
+750*650*310mm
+≈83.8Kg
+95.2Kg
+20℃~+60℃
+O~95%(no condensation)
+≤2000
+Overcharge protection, Overdischarge protection, Overcurrent protection,
+Shortcircuit protection, Overtemperature protection,
+s a l e s @ e c o i n t l . c o m
+================================================================================
+ecowall-ew-16k-48v-ye.pdf | pages: 1
+--- page 1 ---
+W a r r a n t y
+C o o l i n g  T y p e
+I n s t a l l a t i o n  
+I P  R a t i n g
+H e a t i n g  u n i t ( o p t i o n a l )
+S c r e e n  ( O p t i o n a l )
+P r o t e c t i v e  C l a s s  
+M a x .  C o n n e c t i o n  N u m b e r
+C o m m u n i c a t i o n
+ W i F I
+P r o t e c t i o n
+T o t a l  E n e r g y
+U s a b l e  E n e r g y *  
+V o l t a g e  
+N o m i n a l  V o l t a g e
+R a t e d  C a p a c i t y  
+M a x .  C h a r g e  V o l t a g e  N o m i n a l
+D i s c h a r g i n g  C u r r e n t  N o m i n a l
+C h a r g i n g  C u r r e n t  W e i g h t
+D i m e n s i o n ( m m ) ( H * L  * W )
+R e c o m m e n d e d  D O D
+O p e r a t i n g  C o n d i t i o n
+O p e r a t i n g  T e m p e r a t u r e
+H u m i d i t y  
+C h a r g e
+D i s c h a r g e
+I P  2 0
+1 5 0 W
+L E D
+I
+1 5 P
+C A N  /  R S 4 8 5
+Y e s
+C E , U N 3 8 . 3 , M S D S
+5  y e a r s
+1 6 . 0 7 k W h
+1 5 . 2 7 k W h
+4 4 . 8 ~ 5 7 . 6 V d . c .
+5 1 . 2 V d . c .
+3 1 4 A h
+5 7 . 6 V d . c .
+1 5 0 A ( 1 P )  / 1 6 0 A ( 2 P ~ 6 P )
+1 5 0 A ( 1 P )  / 1 6 0 A ( 2 P ~ 6 P )
+1 2 0 k g
+8 0 0 * 4 5 0 * 2 5 0 m m
+9 5 %
+I n d o o r
+0 ~ 5 5 ° C
+- 1 5 ~ 5 5 ° C
+1 5 % 〜 8 5 % R H  ( N o  C o n d e n s a t i o n )
+I I
+N a t u r a l  c o o l i n g
+e r a t u r e
+P o w e r C o o l - W L L 0 1 6 E 1
+e c o i n t l
+E C O W A L L
+1 6  k W h  B a t t e r y
+* T e s t i n g  c o n d i t i o n s  b a s e d  o n  t e m p e r a t u r e  2 5 ℃  a t  t h e  b e g i n n i n g  o f  l i f e .  T o t a l  E n e r g y / U s a b l e  E n e r g y  a r e  m e a s u r e d  w i t h  a  s t a n d a r d  t e s t  m e t h o d :  0 . 2 C
+ C h a r g e  a n d  D i s c h a r g e .  A s  p e r  t h e  
+T h e  f i n a l  i n t e r p r e t a t i o n  s h a l l  b e  r e s e r v e d  b y  Y I N E R G Y  D I G I T A L  P O W E R  T E C H N O L O G Y  C O . ,  L T D .
+w w w . e c o - i n t l . c o
+s a l e s @ e c o i n t l . c o m
+
+================================================================================
+ecowall-ew-4k-24v-gr.pdf | pages: 1
+--- page 1 ---
+STANDARD
+C l a s s  9
+U N 3 8 . 3
+C l a s s  1  
+GENERAL INFORMATION
+ENVIRONMENTAL REQUIREMENTS
+COMMUNICATION INTERFACES
+S y s t e m  f u n c t i o n
+H a z a r d o u s  m a t e r i a l  c l a s s i f i c a t i o n
+T r a n s p o r t  t e s t i n g  r e q u i r e m e n t
+P r o t e c t i o n  c l a s s
+C e r t i f i c a t i o n s
+C h a r g e  t e m p e r a t u r e
+D i s c h a r g e  t e m p e r a t u r e
+R e c o m m e n d e d  s t o r a g e  t e m p e r a t u r e
+C o o l i n g  c o n c e p t
+M a x . o p e r a t i n g  a l t i t u d e
+I n s t a l l a t i o n  t y p e
+I n g r e s s  p r o t e c t i o n
+E n v i r o n m e n t
+D i s p l a y
+P A C E  B M S  C o m m u n i c a t i o n  i n t e r f a c e s
+G r o u n d
+C E / I E C 6 2 6 1 9  
+L E D  S t r i p  L i g h t
+R S 4 8 5 / R S 2 3 2 / C A N  
+0 ~ 6 0 ℃
+- 2 0 ~ 6 0 ℃
+2 0 ~ 3 5 ℃
+N a t u r a l  c o o l i n g
+3 0 0 0 m
+G r o u n d
+I P 2 0
+I n d o o r
+W a l l - m o u n t e d
+B a t t e r y  m o d e l
+C e l l  t y p e
+R a t e d  v o l t a g e
+O p e r a t i o n  v o l t a g e  r a n g e
+R a t e d  e n e r g y
+S y s t e m  e n e r g y  c a p a c i t y
+M a x  c o n t i n u o u s  d i s c h a r g i n g  c u r r e n t 1 5 0 A
+G G E S S - 5 1 . 2 - 8 k W h
+G G E S S - 2 5 . 6 - 4 k W h
+5 1 . 2 V
+4 3 . 2 V ~ 5 8 . 4 V
+1 5 5 A H
+8 k W h
+2 5 . 6 V
+2 1 . 6 V ~ 2 9 . 2 V
+1 5 5 A H
+4 k W h  1 5 0 A
+8 0 A
+8 0 A
+R a t e d  c h a r g e  c u r r e n t
+R a t e d  d i s c h a r g i n g  c u r r e n t
+D O D  %  @ 2 5 ℃
+S e l f - d i s c h a r g e
+C y c l e  l i f e
+W a r r a n t y
+D i m e n s i o n ( W × H × D )  
+P a c k a g e
+8 0 A
+8 0 A
+8 0 % D O D
+< 3 %  p e r  M o n t h  @ 2 5 ℃
+> 6 0 0 0  C y c l e s  @ 2 5 ℃  8 0 % D O D
+5  Y e a r s
+L 4 2 0 × W 1 9 0 × H 6 6 0 m m  L 4 0 0 × W 2 7 0 × H 5 7 0 m m  
+L 4 6 0 × W 1 5 0 × H 5 2 0 m m
+I n d i v i d u a l  W o o d e n  B o x
+O v e r - C h a r g e  p r o t e c t i o n ;  o v e r - d i s c h a r g e  p r o t e c t i o n ;  s h o r t - c i r c u i t  p r o t e c t i o n ;  o v e r - v o l t a g e
+p r o t e c t i o n ;  U n d e r - v o l t a g e  p r o t e c t i o n ;  o v e r - c u r r e n t  p r o t e c t i o n ;  O v e r - t e m p e r a t u r e  p r o t e c -
+t i o n ;  S t a t e  o f  C h a r g e  D i s p l a y ;  A n t i -  S u r g e  p r o t e c t i o n ;  S m a r t  B M S  w i t h  F i r s t  L e v e l  p r o t e c t i o n ,
+S e c o n d  L e v e l  P r o t e c t i o n  a n d  T h i r d  L e v e l  p r o t e c t i o n ;  a n d  C i r c u i t  B r e a k e r  p r o t e c t i o n ;
+e
+================================================================================
+ecowall-ew-5k-48v-ye.pdf | pages: 1
+--- page 1 ---
+w w w . y i n e r g y - s o l a r . c o m
+i n f o @ y i n e r g y - s o l a r . c o m
+w w w . e c o - i n t l . o r g
+i n f o . e c o i n t l . o r g
+P P o o w w e e r Y r C C N o o - o W o l L - l - L W 0 0 L L 5 L 1 L 0 1 0 1 1 0 0 A A 1 1
+M a x m  p a r a l l e l  q u a n t i t y
+D i m e n s i o n ( L * W * H )
+N e t  w e i g h t
+O p e r a t i n g  c o n d i t i o n
+O p e r a t i n g  
+T e m p e r a t u r e  
+C h a r g i n g
+D i s c h a r g e
+O v e r h e a t i n g  p r o t e c t i o n
+H u m i d i t y
+C o o l i n g  t y p e
+W I F I  F r e q u e n c y  R a n g e
+W I F I  M a x i m u m  T r a n s m i s s i o n  P o w e r
+M M o o d d u u l e l e  T  T y y p p e e
+R a t e d  c a p a c i t y
+T o t a l  e n e r g y
+U s a b l e  e n e r g y *
+V o l t a g e  r a n g e
+N o m i n a l  v o l t a g e
+M a x .  c h a r g i n g  v o l t a g e
+N o m i n a l  c o n t i n u o u s  c h a r g i n g  c u r r e n t
+M a x .  c o n t i n u o u s  c h a r g i n g  c u r r e n t
+N o m i n a l  c o n t i n u o u s  d i s c h a r g e  c u r r e n t
+M a x .  c o n t i n u o u s  d i s c h a r g e  c u r r e n t
+D O D
+5 7
+1 0 4 A h
+5 . 3 2 k W h
+5 . 0 5 k W h
+4 4 . 8 ~ 5 7 . 6 V d . c .
+5 1 . 2 V
+5 7 . 6 V
+5 0 A
+1 0 0 A ( 3 0 m i n )
+5 0 A
+1 0 0 A ( 3 0 m i n )
+9 5 %
+C A N / R S 4 8 5 / W i F i
+6
+( 4 1 8 ± 2 ) * ( 1 6 0 ± 2 ) * ( 6 1 0 ± 2 ) m m
+( 4 5 ± 1 ) k g
+I n d o o r
+0 ~ 5 5 ° C
+- 1 5 ~ 5 5 ° C
+1 5 %  ~  8 5 % ( R H ) ( N o  C o n d e n s a t i o n )
+N a t u r a l  C o o l i n g
+2 4 1 2 M H z ~ 2 4 7 2 M H z
+2 0 d B m
+1 3 0 W
+I P 2 0
+1 6 S
+I n s t a l l a t i o n  m e t h o d
+S u p p l y  c o n n e c t i o n
+W a r r a n t y
+A u t h e n t i c a t i o n  L e v e l
+W a l l - m o u n t e d
+F i x e d  p o w e r  c o r d
+5  y e a r s
+U N 3 8 . 3 / C E
+D i s c h a r g e .  A s  p e r  t h e  c h a r a c t e r i s t i c s  o f  l i t h i u m  b a t t e r i e s ,  s u c
+* T e s t i n g  c o n d i t i o n s  b a s e d  o n  t e m p e r a t u r e  2 5 ℃  a t  t h e  b e g i n n i n g  o f  l i f e .  T o t a l  E n e r g y / U s a b l e  E n e r g y  a r e  m e a s u r e d  w i t h  a  s t a n d a r d  t e s t  m e t h o d :  0 . 2 C  C h a r g e  a n d  
+e d  a b o v e  a r e  s u b j e c t  t o  c h a n g e .  
+℃
+e c o i n t l
+E C O W A L L
+5  k W h  W a l l  M o u n t e d  L i - l o n  B a t t e r y
+w w w . e c o - i n t l . o r g
+i n f o . e c o i n t l . o r g
+================================================================================
+ecowall-ew-8k-48v-gr.pdf | pages: 1
+--- page 1 ---
+STANDARD
+C l a s s  9
+U N 3 8 . 3
+C l a s s  1  
+GENERAL INFORMATION
+ENVIRONMENTAL REQUIREMENTS
+COMMUNICATION INTERFACES
+S y s t e m  f u n c t i o n
+H a z a r d o u s  m a t e r i a l  c l a s s i f i c a t i o n
+T r a n s p o r t  t e s t i n g  r e q u i r e m e n t
+P r o t e c t i o n  c l a s s
+C e r t i f i c a t i o n s
+C h a r g e  t e m p e r a t u r e
+D i s c h a r g e  t e m p e r a t u r e
+R e c o m m e n d e d  s t o r a g e  t e m p e r a t u r e
+C o o l i n g  c o n c e p t
+M a x . o p e r a t i n g  a l t i t u d e
+I n s t a l l a t i o n  t y p e
+I n g r e s s  p r o t e c t i o n
+E n v i r o n m e n t
+D i s p l a y
+P A C E  B M S  C o m m u n i c a t i o n  i n t e r f a c e s
+G r o u n d
+C E / I E C 6 2 6 1 9  
+L E D  S t r i p  L i g h t
+R S 4 8 5 / R S 2 3 2 / C A N  
+0 ~ 6 0 ℃
+- 2 0 ~ 6 0 ℃
+2 0 ~ 3 5 ℃
+N a t u r a l  c o o l i n g
+3 0 0 0 m
+G r o u n d
+I P 2 0
+I n d o o r
+W a l l - m o u n t e d
+B a t t e r y  m o d e l
+C e l l  t y p e
+R a t e d  v o l t a g e
+O p e r a t i o n  v o l t a g e  r a n g e
+R a t e d  e n e r g y
+S y s t e m  e n e r g y  c a p a c i t y
+M a x  c o n t i n u o u s  d i s c h a r g i n g  c u r r e n t 1 5 0 A
+G G E S S - 5 1 . 2 - 8 k W h
+G G E S S - 2 5 . 6 - 4 k W h
+5 1 . 2 V
+4 3 . 2 V ~ 5 8 . 4 V
+1 5 5 A H
+8 k W h
+2 5 . 6 V
+2 1 . 6 V ~ 2 9 . 2 V
+1 5 5 A H
+4 k W h  1 5 0 A
+8 0 A
+8 0 A
+R a t e d  c h a r g e  c u r r e n t
+R a t e d  d i s c h a r g i n g  c u r r e n t
+D O D  %  @ 2 5 ℃
+S e l f - d i s c h a r g e
+C y c l e  l i f e
+W a r r a n t y
+D i m e n s i o n ( W × H × D )  
+P a c k a g e
+8 0 A
+8 0 A
+8 0 % D O D
+< 3 %  p e r  M o n t h  @ 2 5 ℃
+> 6 0 0 0  C y c l e s  @ 2 5 ℃  8 0 % D O D
+5  Y e a r s
+L 4 2 0 × W 1 9 0 × H 6 6 0 m m  L 4 0 0 × W 2 7 0 × H 5 7 0 m m  
+L 4 6 0 × W 1 5 0 × H 5 2 0 m m
+I n d i v i d u a l  W o o d e n  B o x
+O v e r - C h a r g e  p r o t e c t i o n ;  o v e r - d i s c h a r g e  p r o t e c t i o n ;  s h o r t - c i r c u i t  p r o t e c t i o n ;  o v e r - v o l t a g e
+p r o t e c t i o n ;  U n d e r - v o l t a g e  p r o t e c t i o n ;  o v e r - c u r r e n t  p r o t e c t i o n ;  O v e r - t e m p e r a t u r e  p r o t e c -
+t i o n ;  S t a t e  o f  C h a r g e  D i s p l a y ;  A n t i -  S u r g e  p r o t e c t i o n ;  S m a r t  B M S  w i t h  F i r s t  L e v e l  p r o t e c t i o n ,
+S e c o n d  L e v e l  P r o t e c t i o n  a n d  T h i r d  L e v e l  p r o t e c t i o n ;  a n d  C i r c u i t  B r e a k e r  p r o t e c t i o n ;
+e
