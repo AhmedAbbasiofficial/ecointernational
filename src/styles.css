@@ -3,9 +3,49 @@
 @source "../src";
 @custom-variant dark (&:is(.dark *));
 
+/*
+ * Mohr Rounded (Latinotype) — licensed commercial font, files not yet supplied.
+ * To enable: place WOFF2 files in public/fonts/mohr-rounded/ with these names and
+ * uncomment the block below. "Mohr Rounded" is already first-in-line in the font
+ * stacks, so it will take over automatically once the faces are declared.
+ *
+ * @font-face {
+ *   font-family: "Mohr Rounded";
+ *   src: url("/fonts/mohr-rounded/MohrRounded-Regular.woff2") format("woff2");
+ *   font-weight: 400;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ * @font-face {
+ *   font-family: "Mohr Rounded";
+ *   src: url("/fonts/mohr-rounded/MohrRounded-Medium.woff2") format("woff2");
+ *   font-weight: 500;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ * @font-face {
+ *   font-family: "Mohr Rounded";
+ *   src: url("/fonts/mohr-rounded/MohrRounded-SemiBold.woff2") format("woff2");
+ *   font-weight: 600;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ * @font-face {
+ *   font-family: "Mohr Rounded";
+ *   src: url("/fonts/mohr-rounded/MohrRounded-Bold.woff2") format("woff2");
+ *   font-weight: 700;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ */
+
 @theme inline {
-  --font-sans: "Source Sans 3", Arial, sans-serif;
-  --font-display: "Barlow Semi Condensed", "Arial Narrow", sans-serif;
+  --font-sans:
+    "Nunito", "Mohr Rounded", ui-rounded, "SF Pro Rounded", "Segoe UI", "Source Sans 3", Arial,
+    sans-serif;
+  --font-display:
+    "Nunito", "Mohr Rounded", ui-rounded, "SF Pro Rounded", "Segoe UI", "Barlow Semi Condensed",
+    "Arial Narrow", sans-serif;
   --font-mono: "IBM Plex Mono", monospace;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -2753,195 +2793,6 @@
   max-height: 240px;
   max-width: 100%;
   object-fit: contain;
-}
-
-/* Our Members — Instagram embeds */
-.happy-clients-section {
-  border-top: 1px solid var(--border);
-  background: #ffffff;
-}
-.happy-members-carousel {
-  min-width: 0;
-}
-.happy-clients-track {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 24px;
-  align-items: start;
-  min-width: 0;
-}
-.happy-client-card {
-  min-width: 0;
-}
-.members-carousel-controls {
-  display: none;
-}
-.ig-embed-frame {
-  position: relative;
-  min-height: 560px;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  background: #ffffff;
-  overflow: hidden;
-}
-.ig-embed-slot {
-  min-width: 0;
-}
-.ig-embed-slot.is-failed {
-  display: none;
-}
-.ig-embed-slot > .instagram-media,
-.happy-clients-track .instagram-media {
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: 100% !important;
-  margin: 0 !important;
-  border: none !important;
-}
-.happy-clients-track .instagram-media iframe {
-  max-width: 100%;
-}
-.ig-embed-skeleton {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(110deg, #eeeeee 8%, #f7f7f7 18%, #eeeeee 33%);
-  background-size: 200% 100%;
-  animation: ig-skeleton-shimmer 1.6s linear infinite;
-}
-@keyframes ig-skeleton-shimmer {
-  to {
-    background-position-x: -200%;
-  }
-}
-.ig-embed-fallback {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 10px;
-  padding: 32px 28px;
-  background: #ffffff;
-  color: #252525;
-  text-decoration: none;
-  transition: box-shadow 180ms;
-}
-.ig-embed-fallback:hover {
-  box-shadow: inset 0 0 0 1px var(--primary);
-}
-.ig-embed-fallback svg {
-  color: var(--primary);
-}
-.ig-embed-fallback strong {
-  font-size: 17px;
-  font-weight: 600;
-  color: var(--primary);
-}
-.ig-embed-fallback span {
-  font-size: 14px;
-  color: var(--muted-foreground);
-  line-height: 1.6;
-}
-.ig-noscript-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  margin-top: 16px;
-}
-.ig-noscript-links a {
-  color: var(--primary);
-  font-weight: 600;
-}
-@media (max-width: 1023px) {
-  .happy-clients-track {
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    gap: 16px;
-    padding-bottom: 12px;
-    -webkit-overflow-scrolling: touch;
-    overscroll-behavior-x: contain;
-    scrollbar-width: none;
-    touch-action: pan-x pan-y;
-  }
-  .happy-clients-track::-webkit-scrollbar {
-    display: none;
-  }
-  .happy-client-card {
-    flex: 0 0 calc((100% - 16px) / 2);
-    max-width: calc((100% - 16px) / 2);
-    scroll-snap-align: start;
-  }
-  .ig-embed-frame {
-    min-height: 520px;
-  }
-  .members-carousel-controls {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 16px;
-    margin-top: 12px;
-  }
-  .members-carousel-arrow {
-    display: inline-flex;
-    width: 40px;
-    height: 40px;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid var(--border);
-    background: var(--background);
-    color: var(--foreground);
-    cursor: pointer;
-  }
-  .members-carousel-arrow:disabled {
-    cursor: not-allowed;
-    opacity: 0.45;
-  }
-  .members-carousel-arrow:focus-visible,
-  .members-carousel-dot:focus-visible {
-    outline: 2px solid var(--primary);
-    outline-offset: 3px;
-  }
-  .members-carousel-pagination {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-  }
-  .members-carousel-dot {
-    width: 10px;
-    height: 10px;
-    padding: 0;
-    border: 0;
-    border-radius: 50%;
-    background: var(--border);
-    cursor: pointer;
-  }
-  .members-carousel-dot.active {
-    background: var(--primary);
-  }
-}
-@media (max-width: 767px) {
-  .happy-clients-track {
-    scroll-behavior: smooth;
-    padding-bottom: 32px;
-  }
-  .happy-client-card {
-    flex-basis: 100%;
-    max-width: 100%;
-  }
-  .ig-embed-frame {
-    min-height: min(520px, 145vw);
-  }
-}
-@media (prefers-reduced-motion: reduce) {
-  .happy-clients-track {
-    scroll-behavior: auto;
-  }
-  .ig-embed-skeleton {
-    animation: none;
-  }
 }
 
 /* Trade Banner */

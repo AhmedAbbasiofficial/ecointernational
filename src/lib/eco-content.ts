@@ -1202,11 +1202,6 @@ export const ecoContent = {
   heroImageMobileWebp: "/mobilebanner1.webp",
   rangeImage: "",
   video: { url: "", poster: "", title: "A closer look at ECO." },
-  membersInstagramPosts: [
-    "https://www.instagram.com/p/DGXysOjsk_M/",
-    "https://www.instagram.com/p/DGXy1GGsZ_r/",
-    "https://www.instagram.com/p/DGYi92sMHsR/",
-  ],
   articles: [] as Article[],
   credentials: [] as { title: string; url: string }[],
   enquiryEndpoint: "",
